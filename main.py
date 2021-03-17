@@ -1,3 +1,4 @@
+## Made with love by AlexandreAero
 a=float(input('Please instert a decimal number :'))
 a=int(a)
 outpoutBinary=bin(a)
