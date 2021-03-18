@@ -1,3 +1,3 @@
 # Convertor.io
 
-A very simple decimal to binary convertor
+A very simple decimal to binary and hexadeciaml convertor
