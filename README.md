@@ -1,6 +1,8 @@
 # Convertor.io ⌛
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/alexandreaero/convertor.io)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexandreaero/convertor.io)
+![Lines of code](https://img.shields.io/tokei/lines/github/alexandreaero/convertor.io)
 
 ### A very simple decimal to binary + hexadeciamal convertor.  
 
